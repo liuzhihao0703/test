@@ -1,0 +1,26 @@
+body
+{
+	background-color:#68cdd5;
+	color:white;
+}
+.logo1
+{
+	text-align:center;
+}
+
+.words
+{
+	margin:2rem 2.5rem 5rem;
+	font-size:0.5rem;
+	line-height: 1.2rem;
+}
+.logo2
+{
+	float:left;
+	margin-left:14%;
+}
+.logo3
+{
+	float:right;
+	margin-right:14%;
+}

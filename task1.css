@@ -1,0 +1,12 @@
+div
+    {
+        border-radius: 20px;
+    }
+.box
+    {
+        padding-top:30%;
+        width:30%;
+        background:#FF9900;
+        float: left;
+        margin: 1%;
+    }
